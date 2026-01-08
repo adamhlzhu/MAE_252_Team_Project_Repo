@@ -1,0 +1,3 @@
+[submodule "mini-vla"]
+	path = mini-vla
+	url = https://github.com/keivalya/mini-vla.git
